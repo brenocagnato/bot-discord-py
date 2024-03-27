@@ -79,4 +79,4 @@ async def custom_help_command(ctx):
     await ctx.send(help_message)
 
 # Roda o bot
-bot.run('MTIyMjM2MTcxMjA2NjQyODk5OA.GEVaKY.NcPXnMDCUrk59HAelWfuQyWsEsMPeug_2vRkWc')
+bot.run('SEU TOKEN AQUI')
